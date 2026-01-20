@@ -37,7 +37,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Links the external CSS (Cascading Style Sheets) file (`styles.css`) to style the HTML document.
 
 **Line 10:** `</head>`
-- Closes the head section.
 
 ---
 
@@ -69,7 +68,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Two flex items (boxes) that will be centered horizontally.
 
 **Line 21:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -85,7 +83,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Flex items that will be centered vertically within the tall container.
 
 **Line 27:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -101,7 +98,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Items centered in both directions within the container.
 
 **Line 33:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -117,7 +113,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Three boxes with `flex: 1`, making them grow equally to fill available space.
 
 **Line 40:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -133,7 +128,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Multiple items that will wrap to new lines when container width is insufficient.
 
 **Line 50:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -155,7 +149,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Box without flex-grow, maintains its minimum width.
 
 **Line 57:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -171,7 +164,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Items displayed in reverse order (Item 3, Item 2, Item 1).
 
 **Line 63:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -187,7 +179,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Items wrap to new lines, but lines stack from bottom to top.
 
 **Line 73:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -203,7 +194,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Items distributed with maximum space between wrapped rows.
 
 **Line 81:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -225,7 +215,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Box aligned to bottom and moved to first position (`order: -1`).
 
 **Line 88:** `</div>`
-- Closes the flex container.
 
 ---
 
@@ -247,20 +236,16 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Box with `flex-grow: 3` (largest growth).
 
 **Line 95:** `</div>`
-- Closes the flex container.
 
 ---
 
 ### Closing Tags (Lines 96-99)
 
 **Line 96:** `</main>`
-- Closes the main content container.
 
 **Line 97:** `</body>`
-- Closes the body section.
 
 **Line 99:** `</html>`
-- Closes the HTML document.
 
 ---
 
@@ -281,7 +266,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Makes padding and border included in element's total width/height.
 
 **Line 5:** `}`
-- Closes the universal selector rule.
 
 ---
 
@@ -306,7 +290,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets line spacing to 1.6× the font size for better readability.
 
 **Line 12:** `}`
-- Closes the body rule.
 
 ---
 
@@ -325,7 +308,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Adds 20px padding on left and right sides.
 
 **Line 19:** `}`
-- Closes the container rule.
 
 ---
 
@@ -341,7 +323,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets h2 font size to 1.25× the base font size (rem = root em, relative to root element font size).
 
 **Line 24:** `}`
-- Closes the h2 rule.
 
 ---
 
@@ -369,7 +350,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Rounds the container corners by 4px (pixels).
 
 **Line 34:** `}`
-- Closes the flex-container rule.
 
 ---
 
@@ -382,7 +362,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Centers flex items along the main axis (horizontally by default).
 
 **Line 38:** `}`
-- Closes the justify-center rule.
 
 ---
 
@@ -395,7 +374,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Centers flex items along the cross axis (vertically by default).
 
 **Line 42:** `}`
-- Closes the align-center rule.
 
 **Line 44:** `.align-stretch {`
 - Utility class for stretching items.
@@ -404,7 +382,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Stretches items to fill the container's cross-axis height.
 
 **Line 46:** `}`
-- Closes the align-stretch rule.
 
 ---
 
@@ -417,7 +394,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Allows flex items to wrap to new lines when space is insufficient.
 
 **Line 50:** `}`
-- Closes the wrap-demo rule.
 
 ---
 
@@ -433,7 +409,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Centers items vertically.
 
 **Line 55:** `}`
-- Closes the center-both rule.
 
 ---
 
@@ -446,7 +421,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets container height to 300px to demonstrate vertical alignment.
 
 **Line 59:** `}`
-- Closes the big-container rule.
 
 ---
 
@@ -459,7 +433,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Shorthand for `flex-grow: 1; flex-shrink: 1; flex-basis: 0%` - items grow equally.
 
 **Line 63:** `}`
-- Closes the flex-1 rule.
 
 ---
 
@@ -490,7 +463,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets minimum width to 140px (pixels) to prevent boxes from becoming too small.
 
 **Line 74:** `}`
-- Closes the box rule.
 
 ---
 
@@ -503,7 +475,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Item takes 1 part of available space.
 
 **Line 78:** `}`
-- Closes the grow-1 rule.
 
 **Line 80:** `.grow-2 {`
 - Utility for growth factor of 2.
@@ -512,7 +483,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Item takes 2 parts of available space (twice as much as grow-1).
 
 **Line 82:** `}`
-- Closes the grow-2 rule.
 
 **Line 84:** `.grow-3 {`
 - Utility for growth factor of 3.
@@ -521,7 +491,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Item takes 3 parts of available space.
 
 **Line 86:** `}`
-- Closes the grow-3 rule.
 
 **Line 88:** `.grow-4 {`
 - Utility for growth factor of 4.
@@ -530,7 +499,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Item takes 4 parts of available space.
 
 **Line 90:** `}`
-- Closes the grow-4 rule.
 
 ---
 
@@ -543,7 +511,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Aligns items to the end of the main axis (right side by default).
 
 **Line 94:** `}`
-- Closes the justify-end rule.
 
 ---
 
@@ -556,7 +523,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Centers items along the cross axis.
 
 **Line 98:** `}`
-- Closes the items-center rule.
 
 ---
 
@@ -569,7 +535,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Reverses the order of flex items (right to left).
 
 **Line 103:** `}`
-- Closes the row-reverse rule.
 
 **Line 105:** `.column {`
 - Utility for column direction.
@@ -578,7 +543,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Stacks items vertically (top to bottom).
 
 **Line 107:** `}`
-- Closes the column rule.
 
 **Line 109:** `.column-reverse {`
 - Utility for reversed column direction.
@@ -587,7 +551,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Stacks items vertically in reverse (bottom to top).
 
 **Line 111:** `}`
-- Closes the column-reverse rule.
 
 ---
 
@@ -600,7 +563,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Wraps items to new lines, but stacks lines from bottom to top.
 
 **Line 115:** `}`
-- Closes the wrap-reverse rule.
 
 ---
 
@@ -613,7 +575,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Distributes wrapped lines with maximum space between them.
 
 **Line 120:** `}`
-- Closes the content-between rule.
 
 **Line 122:** `.content-around {`
 - Utility for space-around alignment.
@@ -622,7 +583,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Distributes wrapped lines with equal space around each line.
 
 **Line 124:** `}`
-- Closes the content-around rule.
 
 ---
 
@@ -635,7 +595,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Aligns this specific item to the start of the cross axis (top by default).
 
 **Line 129:** `}`
-- Closes the self-start rule.
 
 **Line 131:** `.self-end {`
 - Utility for individual item alignment to end.
@@ -644,7 +603,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Aligns this specific item to the end of the cross axis (bottom by default).
 
 **Line 133:** `}`
-- Closes the self-end rule.
 
 **Line 135:** `.self-center {`
 - Utility for individual item centering.
@@ -653,7 +611,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Centers this specific item along the cross axis.
 
 **Line 137:** `}`
-- Closes the self-center rule.
 
 ---
 
@@ -666,7 +623,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets order to -1, placing item before all items with default order (0).
 
 **Line 142:** `}`
-- Closes the order-first rule.
 
 **Line 144:** `.order-last {`
 - Utility to move item to the end.
@@ -675,7 +631,6 @@ This project demonstrates various CSS (Cascading Style Sheets) Flexbox propertie
 - Sets order to 1, placing item after all items with default order (0).
 
 **Line 146:** `}`
-- Closes the order-last rule.
 
 ---
 
