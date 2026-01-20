@@ -399,4 +399,36 @@ There is no **script.js** file in this project. This is a pure HTML and CSS demo
 
 ---
 
+## 📖 Glossary of Terms
+
+| Abbreviation | Full Form | Description |
+|--------------|-----------|-------------|
+| **HTML** | HyperText Markup Language | Standard markup language for creating web pages |
+| **CSS** | Cascading Style Sheets | Style sheet language for describing presentation of HTML |
+| **UTF-8** | Unicode Transformation Format - 8-bit | Character encoding for text files |
+| **IE** | Internet Explorer | Microsoft's legacy web browser |
+| **px** | Pixels | Absolute unit of measurement in CSS |
+| **rem** | Root Em | Relative unit based on root element's font size |
+| **vh** | Viewport Height | 1% of the viewport's height |
+| **vw** | Viewport Width | 1% of the viewport's width |
+| **DevTools** | Developer Tools | Browser's built-in inspection and debugging tools |
+
+### Common Flexbox Terms
+
+| Term | Description |
+|------|-------------|
+| **Main Axis** | Primary axis along which flex items are laid out (horizontal for row, vertical for column) |
+| **Cross Axis** | Axis perpendicular to the main axis |
+| **Flex Container** | Parent element with `display: flex` |
+| **Flex Item** | Direct child of a flex container |
+| **Justify** | Alignment along the main axis |
+| **Align** | Alignment along the cross axis |
+| **Gap** | Space between flex items |
+| **Wrap** | Allows items to wrap to new lines |
+| **Grow** | Defines ability of item to expand |
+| **Shrink** | Defines ability of item to contract |
+| **Basis** | Default size of an item before space distribution |
+
+---
+
 Happy Learning! 🎉
